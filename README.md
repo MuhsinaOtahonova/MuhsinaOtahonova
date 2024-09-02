@@ -2,7 +2,7 @@ Hey! I'm Muhsina Atahan. 👋
 
 🎓 I'm a computer engineering student from Uzbekistan. 🇺🇿
 
-📍 I currently live in Istanbul, Turkey. 🇹🇷
+📍 I currently live in Istanbul, Turkiye. 🇹🇷
 
 💻 I'm focused on developing my skills in embedded systems and software development.
 
